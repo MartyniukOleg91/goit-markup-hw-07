@@ -57,7 +57,7 @@ header {
   border-bottom: 1px solid #ececec;
 }
 
-.logo_header {
+.header_logo {
   text-decoration: none;
   font-family: 'Raleway';
   font-style: normal;
@@ -66,7 +66,7 @@ header {
   line-height: 1.2;
   color: var(--accent-color);
 }
-.logo_header > .link {
+.header_logo > .link {
   color: #000000;
   text-decoration: none;
   font-family: 'Raleway';
@@ -132,7 +132,7 @@ ul {
   border-radius: 2px;
 }
 
-.main_nav {
+.header_nav {
   display: flex;
   align-items: center;
 }
